@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_condor.mk
+    $(LOCAL_DIR)/full_condor.mk \
+    $(LOCAL_DIR)/pixeldust_condor.mk
